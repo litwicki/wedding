@@ -1,0 +1,71 @@
+BODY {
+font-size: 12px;
+color: #000000;
+font-family: Arial, Verdana, Helvetica;
+margin: 20px;
+background-image: url("../images/bg.gif");
+}
+
+a {
+color: #000000;
+text-deocration: none;
+}
+
+a:hover, a:visited:hover {
+color: #AD9FB7;
+text-decoration: none;
+}
+
+a:visited {
+color: #000000;
+text-decoration: none;
+}
+
+a.navigation {
+padding: 8px;
+margin: 15px;
+color: #000000;
+font-weight: bold;
+text-decoration: none;
+
+}
+
+a.navigation:hover {
+color: #000000;
+text-decoration: none;
+background-color: #AD9FB7;
+
+}
+
+a.navigation:visited {
+color: #000000;
+
+}
+
+td.rsvp-form {
+padding: 4px;
+margin: 4px;
+}
+
+td.rsvp-form:hover {
+background-color: #AD9FB7;
+}
+
+.footer {
+font-size: 11px;
+margin: 10px;
+}
+
+.guests {
+margin-left: 30px;
+font-size: 12px;
+color: #000000;
+}
+
+.primary {
+color: #000000;
+font-size: 14px;
+font-weight: bold;
+margin-left: 10px;
+}
+

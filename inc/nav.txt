@@ -1,0 +1,16 @@
+			
+			<p></p>
+			<p><a class="navigation" href="index.php">Home Page</a></p>
+			<p><a class="navigation" href="wedding_party.php">Wedding Party</a></p>
+			<p><a class="navigation" href="herrington.php">The Herrington</a></p>
+			<p><a class="navigation" href="local.php">All Things Local</a></p>
+
+			<p><br></p>
+			<p><a class="navigation" href="rsvp.php">RSVP to Wedding</a></p>
+			<p><a class="navigation" href="rsvp_view.php">View Guest list</a>
+
+			<p><br></p>
+			<p><a class="navigation" href="registry.php">Gift Registry</a></p>
+			
+			
+			
